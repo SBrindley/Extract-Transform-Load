@@ -3,7 +3,7 @@
 ## Contents
 
 * [Project Proposal](#Project-header)
-* [Aims of the Project](#Aims of the Project)
+* [Aims of the Project](#Aims-of-the-Project)
 
 ## <a id="Project-header"></a>Project Proposal
 
