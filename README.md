@@ -5,6 +5,9 @@
 * [Project Proposal](#Project-header)
 * [Aims of the Project](#Aims-of-the-Project)
 * [Sources of Data](#Sources-of-the-Data)
+* [Data Transformation](#Data-Transformation)
+* [Data Loading](#Data-Loading)
+* [Collaborators](#Collaborators-header)
 
 ## <a id="Project-header"></a>Project Proposal
 
@@ -15,8 +18,10 @@ We decided to look at two datasets for YouTube viewing statistics in the UK with
 ## <a id="Project-header"></a>Aims of the Project
 
 
-**********************
-Sources of the Data
+Fill this in here
+
+
+## <a id="Project-header"></a>Sources of the Data
 
 We used a CSV and JSON file from Kaggle linked here:
 
@@ -28,7 +33,7 @@ Data Extraction
 We used the following files linked below, we also have a copy of the raw data in the ££££££ folder. 
 
 
-Data Transformation
+## <a id="Project-header"></a>Data Transformation
 
 First Step - Importing libraries into Jupyter Notebook
 Loaded the csv file and transformed into a DataFrame
@@ -40,10 +45,10 @@ Checked if there were duplicates
 
 
 
-Data Loading
+## <a id="Project-header"></a>Data Loading
 
 
-Collaborators
+## <a id="Collaborators-header"></a>Collaborators
 Stanley, Olive, Siobhan and Jade
 
 
