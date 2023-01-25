@@ -14,8 +14,8 @@
 * [Data Loading](#Data-Loading)
 * [Collaborators](#Collaborators-header)
 
-## <a id="Project-header"></a>Project Proposal
 
+## <a id="Project-header"></a>Project Proposal
 We decided to look at two datasets for YouTube viewing statistics in the UK with a view for creating and cleaning two tables to make a database ready for usage in PostGres. The Dataset we chose contained the top trending videos on the platform in Great Britain. The csv contained all the data for the videos and the JSON contained a reference to the category ID in the CSV file that could be used to categorise the data by video type.
 
 
