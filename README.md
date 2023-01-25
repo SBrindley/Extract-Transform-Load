@@ -1,8 +1,11 @@
-#Project #2: Extract, Transform, and Load
+# Project #2: Extract, Transform, and Load
 
-Contents
+## Contents
 
-Project Proposal
+* [Project Proposal](#Project-header)
+* [Aims of the Project](#Aims of the Project)
+
+## <a id="Project-header"></a>Project Proposal
 
 We decided to look at two datasets for YouTube viewing statistics in the UK with a view for creating and cleaning two tables to make a database ready for usage in PostGres. The Dataset we chose contained the top trending videos on the platform with up to 200 listed per day. 
 
