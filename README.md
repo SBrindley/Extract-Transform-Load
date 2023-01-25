@@ -4,6 +4,7 @@
 
 * [Project Proposal](#Project-header)
 * [Aims of the Project](#Aims-of-the-Project)
+* [Sources of Data](#Sources-of-the-Data)
 
 ## <a id="Project-header"></a>Project Proposal
 
@@ -11,7 +12,7 @@ We decided to look at two datasets for YouTube viewing statistics in the UK with
 
 
 
-Aims of the Project
+## <a id="Project-header"></a>Aims of the Project
 
 
 **********************
