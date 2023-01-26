@@ -66,7 +66,7 @@ Once this was completed we could assess to see if any columns needed further tra
 
 Our next step was to check the keys existed in both dataframes to ensure connection. Whilst doing this we realised we needed to drop a category_id that was only present in the csv dataframe and therefore had no link to the JSON file and could not be categorised by category_id for our database. We dropped this and then moved on to check for duplication.
 
-<img width="980" alt="image" src="https://user-images.githubusercontent.com/113051302/214708187-9987d4c5-b9d8-408e-b11c-a2fa60c261cd.png">
+![image](https://user-images.githubusercontent.com/113051302/214937953-c00c7f43-8b17-4a3e-9a21-84049ae7820f.png)
 
 
 Our final step was to drop the duplicates, check this step was successful and check the data types to see if further work was needed.
@@ -88,7 +88,22 @@ Finally we checked the data had been added by querying both tables
 ![image](https://user-images.githubusercontent.com/113051302/214918270-86d745ff-5eb6-40af-a2f3-fc5c45e7ad2f.png)
 
 
-pgAdmin was then used to create a SQL table that included the above dataframe and a query was created to import the datasets into the respective tables.
+PgAdmin was then used to create a SQL table that included the above dataframe and a query was created to import the datasets into the respective tables as per below screenshots:
+
+
+![image](https://user-images.githubusercontent.com/113051302/214937733-bd827a2c-c10a-4096-a85e-833718acd70a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113051302/214937808-c3194fb7-f87c-4069-824b-6e2dca533e44.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113051302/214937837-0ee6dd0b-6d03-407b-b66f-6aff2019da18.png)
+
+
+
+
 
 ## <a id="Collaborators-header"></a>Collaborators
 
