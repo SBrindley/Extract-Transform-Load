@@ -6,13 +6,13 @@
 
 ## Contents
 
-* [Project Proposal](#Project-header)
-* [Aims of the Project](#Aim-header)
-* [Sources of Data](#Sources-header)
-* [Required Setup](#Required-header) 
-* [Data Transformation](#Transform-header)
-* [Data Loading](#Data-Loading)
-* [Collaborators](#Collaborators-header)
+* [Project Proposal](#project-proposal)
+* [Aims of the Project](#aims-of-the-project)
+* [Sources of Data](#sources-of-the-data)
+* [Required Setup](#required-setup) 
+* [Data Transformation](#data-transformation)
+* [Data Loading](#data-loading)
+* [Collaborators](#collaborators)
 
 
 ## <a id="Project-header"></a>Project Proposal
