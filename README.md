@@ -22,7 +22,7 @@ We decided to look at two datasets for YouTube viewing statistics in the UK with
 ## <a id="Aim-header"></a>Aims of the Project
 
 
-Our Aim is to demonstrate how we can select a csv/json file, load the files into Jupyter Notebook to clean and prepare the data and to import into PgAdmin to create a competent Database.
+Our Aim is to demonstrate how we can select a csv/json file, load the files into Jupyter Notebook to clean and prepare the data and to import into PgAdmin to create a competent Database. It is being created with the intention of analysing the popularity of videos to discover if there is a pattern on what makes a video trend. We will look at cleaning the data and including fields necessary for future analysis into what makes the top trending videos so popular.
 
 
 ## <a id="Sources-header"></a>Sources of the Data
@@ -88,6 +88,8 @@ Finally we checked the data had been added by querying both tables
 
 ![image](https://user-images.githubusercontent.com/113051302/214918270-86d745ff-5eb6-40af-a2f3-fc5c45e7ad2f.png)
 
+
+pgAdmin was then used to create a SQL table that included the above dataframe and a query was created to import the datasets into the respective tables.
 
 ## <a id="Collaborators-header"></a>Collaborators
 
