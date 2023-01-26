@@ -65,15 +65,28 @@ Once this was completed we could assess to see if any columns needed further tra
 
 <img width="964" alt="image" src="https://user-images.githubusercontent.com/113051302/214707021-79975abd-70b0-4bd7-be80-8a6c12fd0258.png">
 
-Our next step was to check the keys existed in both dataframes to ensure connection. When doing this we realised we needed to drop a category_id that was only present in the csv dataframe and therefore had no link to the JSON file and could not be categorised by category_id for our database. We dropped this and then moved on to check for duplication.
+Our next step was to check the keys existed in both dataframes to ensure connection. Whilst doing this we realised we needed to drop a category_id that was only present in the csv dataframe and therefore had no link to the JSON file and could not be categorised by category_id for our database. We dropped this and then moved on to check for duplication.
 
 <img width="980" alt="image" src="https://user-images.githubusercontent.com/113051302/214708187-9987d4c5-b9d8-408e-b11c-a2fa60c261cd.png">
 
 
-
+Our final step was to drop the duplicates, check this step was successful and check the data types to see if further work was needed.
 
 
 ## <a id="Data-Loading"></a>Data Loading
+
+To do the data load into the database, we imported the necessary components, including the password stored seperately. We did a final check on the tables before creation. 
+
+![image](https://user-images.githubusercontent.com/113051302/214917474-cbbdde81-1908-42c8-aa18-66ca02d969d6.png)
+
+
+We then created the tables and checked after creation
+
+![image](https://user-images.githubusercontent.com/113051302/214917642-28d53041-2f9c-4064-98a8-4a350c537aef.png)
+
+Finally we checked the data had been added by querying both tables
+
+![image](https://user-images.githubusercontent.com/113051302/214918270-86d745ff-5eb6-40af-a2f3-fc5c45e7ad2f.png)
 
 
 ## <a id="Collaborators-header"></a>Collaborators
